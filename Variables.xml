@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<Armor_Detector>
+  <near_face_v>700</near_face_v>
+  <light_min_height>6</light_min_height>
+  <light_slope_offset>100</light_slope_offset>
+  <light_max_delta_h>600</light_max_delta_h>
+  <light_min_delta_h>5</light_min_delta_h>
+  <light_max_delta_v>180</light_max_delta_v>
+  <light_max_delta_angle>25</light_max_delta_angle>
+  <light_max_lr_rate>1.1</light_max_lr_rate>
+  <armor_max_wh_ratio>5.53</armor_max_wh_ratio>
+  <armor_min_wh_ratio>1.31</armor_min_wh_ratio>
+  <armor_type_wh_threshold>3.6</armor_type_wh_threshold>
+  <armor_max_angle>32.2</armor_max_angle></Armor_Detector>
+<Red_Armor>
+  <threshold_min_color_red>50</threshold_min_color_red>
+  <threshold_max_color_red>64</threshold_max_color_red>
+  <threshold_gray_red>200</threshold_gray_red>
+  <RGrayWeightValue>49</RGrayWeightValue></Red_Armor>
+<Blue_Armor>
+  <threshold_max_color_blue>50</threshold_max_color_blue>
+  <threshold_gray_blue>60</threshold_gray_blue>
+  <BGrayWeightValue>49</BGrayWeightValue></Blue_Armor>
+<Gray_Value>
+  <GrayValue>245</GrayValue></Gray_Value>
+<R_HSV>
+  <RLowH>0</RLowH>
+  <RHighH>0</RHighH>
+  <RLowS>0</RLowS>
+  <RHighS>0</RHighS>
+  <RLowV>0</RLowV>
+  <RHighV>0</RHighV></R_HSV>
+<B_HSV>
+  <BLowH>0</BLowH>
+  <BHighH>0</BHighH>
+  <BLowS>0</BLowS>
+  <BHighS>0</BHighS>
+  <BLowV>0</BLowV>
+  <BHighV>0</BHighV>
+  <V_ts>2</V_ts></B_HSV>
+<Energy_Value>
+  <buff_width>23</buff_width>
+  <buff_height>12.7</buff_height>
+  <arm_length>150</arm_length>
+  <max_arm_length>500</max_arm_length>
+  <bullet_fly_time>0.5</bullet_fly_time>
+  <small_mode_predict_angle>0.5</small_mode_predict_angle>
+  <big_mode_predict_angle>0.5</big_mode_predict_angle></Energy_Value>
+<Color_Thresh>
+  <DETECT_RED_GRAY_BINARY>20</DETECT_RED_GRAY_BINARY>
+  <DETECT_BLUE_GRAY_BINARY>50</DETECT_BLUE_GRAY_BINARY></Color_Thresh>
+<Energy_Armor>
+  <ARMOR_CONTOUR_AREA_MAX>12000</ARMOR_CONTOUR_AREA_MAX>
+  <ARMOR_CONTOUR_AREA_MIN>200</ARMOR_CONTOUR_AREA_MIN>       
+  <ARMOR_CONTOUR_LENGTH_MAX>1200</ARMOR_CONTOUR_LENGTH_MAX>
+  <ARMOR_CONTOUR_LENGTH_MIN>10</ARMOR_CONTOUR_LENGTH_MIN>
+  <ARMOR_CONTOUR_WIDTH_MAX>1000</ARMOR_CONTOUR_WIDTH_MAX>
+  <ARMOR_CONTOUR_WIDTH_MIN>20</ARMOR_CONTOUR_WIDTH_MIN>
+  <ARMOR_CONTOUR_HW_RATIO_MAX>4</ARMOR_CONTOUR_HW_RATIO_MAX>
+  <ARMOR_CONTOUR_HW_RATIO_MIN>0.5</ARMOR_CONTOUR_HW_RATIO_MIN>
+  <FLOW_STRIP_FAN_CONTOUR_AREA_MAX>8000</FLOW_STRIP_FAN_CONTOUR_AREA_MAX>
+  <FLOW_STRIP_FAN_CONTOUR_AREA_MIN>500</FLOW_STRIP_FAN_CONTOUR_AREA_MIN>
+  <FLOW_STRIP_FAN_CONTOUR_LENGTH_MAX>300</FLOW_STRIP_FAN_CONTOUR_LENGTH_MAX>
+  <FLOW_STRIP_FAN_CONTOUR_LENGTH_MIN>20</FLOW_STRIP_FAN_CONTOUR_LENGTH_MIN>
+  <FLOW_STRIP_FAN_CONTOUR_WIDTH_MAX>300</FLOW_STRIP_FAN_CONTOUR_WIDTH_MAX>
+  <FLOW_STRIP_FAN_CONTOUR_WIDTH_MIN>50</FLOW_STRIP_FAN_CONTOUR_WIDTH_MIN>
+  <FLOW_STRIP_FAN_CONTOUR_HW_RATIO_MAX>3.0</FLOW_STRIP_FAN_CONTOUR_HW_RATIO_MAX>
+  <FLOW_STRIP_FAN_CONTOUR_HW_RATIO_MIN>1.3</FLOW_STRIP_FAN_CONTOUR_HW_RATIO_MIN>
+  <FLOW_STRIP_FAN_CONTOUR_AREA_RATIO_MAX>1.2</FLOW_STRIP_FAN_CONTOUR_AREA_RATIO_MAX>
+  <FLOW_STRIP_FAN_CONTOUR_AREA_RATIO_MIN>0</FLOW_STRIP_FAN_CONTOUR_AREA_RATIO_MIN></Energy_Armor>
+<Center_R>
+  <CENTER_R_CONTOUR_AREA_MAX>2000</CENTER_R_CONTOUR_AREA_MAX>
+  <CENTER_R_CONTOUR_AREA_MIN>20</CENTER_R_CONTOUR_AREA_MIN>
+  <CENTER_R_CONTOUR_LENGTH_MAX>100</CENTER_R_CONTOUR_LENGTH_MAX>
+  <CENTER_R_CONTOUR_LENGTH_MIN>10</CENTER_R_CONTOUR_LENGTH_MIN> 
+  <CENTER_R_CONTOUR_WIDTH_MAX>50</CENTER_R_CONTOUR_WIDTH_MAX>
+  <CENTER_R_CONTOUR_WIDTH_MIN>5</CENTER_R_CONTOUR_WIDTH_MIN>
+  <CENTER_R_CONTOUR_HW_RATIO_MAX>3.5</CENTER_R_CONTOUR_HW_RATIO_MAX>
+  <CENTER_R_CONTOUR_HW_RATIO_MIN>0.8</CENTER_R_CONTOUR_HW_RATIO_MIN>
+  <CENTER_R_CONTOUR_AREA_RATIO_MIN>1.2</CENTER_R_CONTOUR_AREA_RATIO_MIN>
+  <CENTER_R_CONTOUR_INTERSETION_AREA_MIN>340</CENTER_R_CONTOUR_INTERSETION_AREA_MIN></Center_R>
+</opencv_storage>
