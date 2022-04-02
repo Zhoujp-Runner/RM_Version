@@ -68,6 +68,7 @@
      12.watchDoge 防崩溃shell
 
 ### 流程框图：
-![UB$1Q`V}0W0`V% SOK%Y$KY](https://user-images.githubusercontent.com/92003922/161380414-6c61b4df-4e0c-44f5-80af-47cc7c14b3c5.png)
+![L$`YFFX1PG{`9JF(XSYL3MO](https://user-images.githubusercontent.com/92003922/161380466-acb6b8eb-d831-478a-9a37-3a398131b8c9.png)
+
 
 
