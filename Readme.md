@@ -1,6 +1,6 @@
 # Copyright(C),2018-2021,沈阳航空航天大学T-UP战队 All Rights Reserved
   
-## Author:  周俊平;刘上;赵梓合;顾昊;刘彪;赵文瑄;李宇航
+## Author:  周俊平;刘上;赵梓合;顾昊;刘彪;赵文瑄
   
 ## Version: 4.3.1
 
