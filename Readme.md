@@ -66,3 +66,8 @@
      11.config Ubuntu 16.04/18.04 LTS 快速配置命令合集
      
      12.watchDoge 防崩溃shell
+
+### 流程框图：
+![UB$1Q`V}0W0`V% SOK%Y$KY](https://user-images.githubusercontent.com/92003922/161380414-6c61b4df-4e0c-44f5-80af-47cc7c14b3c5.png)
+
+
