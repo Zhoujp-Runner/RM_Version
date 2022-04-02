@@ -1,10 +1,3 @@
-#----------------------------------------------------------#
-#                                                          #
-#                      CMakeLists.txt                      #
-#                                                          #
-#----------------------------------------------------------#
-# 2020.9.18 by UP
-
 cmake_minimum_required(VERSION 2.8)
 SET(CMAKE_BUILD_TYPE "Debug") # "Debug" "Release"
 PROJECT(TUP-Vision)
