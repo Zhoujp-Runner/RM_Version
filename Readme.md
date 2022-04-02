@@ -68,7 +68,15 @@
      12.watchDoge 防崩溃shell
 
 ### 流程框图：
+总体识别框架：
 ![L$`YFFX1PG{`9JF(XSYL3MO](https://user-images.githubusercontent.com/92003922/161380466-acb6b8eb-d831-478a-9a37-3a398131b8c9.png)
+
+自瞄：
+![52A$K@NH{L`{B476)E1$OC7](https://user-images.githubusercontent.com/92003922/161380986-8b2d5359-5289-445a-b50d-904b53e06076.png)
+
+大符：
+![HOCV1MV)V02@Z4PB{GN YX8](https://user-images.githubusercontent.com/92003922/161380996-f44ae21f-a786-4df0-a14f-3047debf5e9b.png)
+
 
 
 
