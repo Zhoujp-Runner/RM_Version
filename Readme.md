@@ -70,14 +70,15 @@
 ![}H0S5)_5~XK %@`U)SC NNE](https://user-images.githubusercontent.com/92003922/161410606-b65d9e15-a9b8-4998-a312-876194a4bebf.png)
 
 自瞄：
+![Z6VM1$$0NR`S)N_B7_C__L8](https://user-images.githubusercontent.com/92003922/161410913-f35fc7e8-c783-4c5e-be66-b3af39663297.png)
 
-![21HERRVSBB 6P_U6DB% SDE](https://user-images.githubusercontent.com/92003922/161381175-0a3dc61d-ad0c-4e84-b1e3-64f5e4be7d64.png)
 
 移动预测：
 ![F8NYJL2~W@I7I)G(MGH$O1J](https://user-images.githubusercontent.com/92003922/161381201-744e5d9c-3499-4b72-b373-f820a89caf6b.png)
 
 大符：
-![HOCV1MV)V02@Z4PB{GN YX8](https://user-images.githubusercontent.com/92003922/161380996-f44ae21f-a786-4df0-a14f-3047debf5e9b.png)
+![8KO4UUTC2AF7T~2DV56UPMA](https://user-images.githubusercontent.com/92003922/161410919-ba27695f-ee91-467f-ade4-b9aa9eb6b121.png)
+
 
 
 
