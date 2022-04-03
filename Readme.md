@@ -2,7 +2,7 @@
   
 ## Author:  周俊平;刘上;赵梓合;顾昊;刘彪;赵文瑄
   
-## Version: 4.3.1
+## Version: 4.3.2
 
 ### 更新内容：
 1.修改了自瞄图像预处理部分，提高后续识别准确度
@@ -67,19 +67,19 @@
 
 ### 流程框图：
 总体识别框架：
+
 ![}H0S5)_5~XK %@`U)SC NNE](https://user-images.githubusercontent.com/92003922/161410606-b65d9e15-a9b8-4998-a312-876194a4bebf.png)
 
-自瞄：
+自瞄识别流程：
 
-![21HERRVSBB 6P_U6DB% SDE](https://user-images.githubusercontent.com/92003922/161410977-329ac130-70b0-4cc8-97a6-84d37cc1ed49.png)
-
-
-
-大符：
-
-![8KO4UUTC2AF7T~2DV56UPMA](https://user-images.githubusercontent.com/92003922/161410919-ba27695f-ee91-467f-ade4-b9aa9eb6b121.png)
+![W9X1SYO%66NBZ%5WZ)19({8](https://user-images.githubusercontent.com/92003922/161411046-ad5f88fc-cf25-4f0d-8d54-e82d4d76f095.png)
 
 
+
+
+大符识别流程：
+
+![UF7B}QC{T 10 $8FWKQ%A9R](https://user-images.githubusercontent.com/92003922/161411105-f54cf8e6-5c5f-4846-8b8b-d7b1ff87c2a4.png)
 
 
 
