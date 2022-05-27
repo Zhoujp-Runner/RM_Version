@@ -21,7 +21,7 @@
 // @brief 初始化一些参数
 void Params::initParams()
 {
-    string paramFile = "/home/liubiao/TUP-Vision/Variables.xml";
+    const string paramFile = "/home/liubiao/Desktop/Adjust_Version/Variables.xml";
     VarParam autoParam;
     GetParam(paramFile, autoParam);
     stm32Data.initParams();                // 这里默认为stm32传来的数据

@@ -8,7 +8,7 @@ using namespace std;
 using namespace cv;
 using namespace ml;
 
-const string model_path = "/home/liubiao/TUP-Vision/File/HOG_SVM.xml";
+// const string model_path = "/home/liubiao/TUP-Vision/File/HOG_SVM.xml";
 
 /* hog-svm定义 */
 class HOG_SVM
