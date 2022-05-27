@@ -115,10 +115,10 @@ bool SerialPort::initSerialPort()
     return true;
 }
 
-bool SerialPort::getSendData()
-{
+// bool SerialPort::getSendData()
+// {
     
-}
+// }
 
 bool SerialPort::Check_Port_State()
 {
@@ -418,6 +418,7 @@ bool SerialPort::TransformData(const VisionData &data)
     Tdata[20] = 0;
     Tdata[21] = 0;
 	Append_CRC16_Check_Sum(Tdata, 22);
+    return true;
 }
 
 //发送数据函数
