@@ -99,11 +99,11 @@ void ArmorDetector::initArmorDetector()
 {
     //--------svm数字识别模型加载-------------//
     
-    string ParamFile = "/home/liubiao/TUP-Vision/Variables.xml";
-    string svm_file = "/home/liubiao/TrainData/svm_file/armor_model.yml";
+    string ParamFile = "../Variables.xml";
+    // string svm_file = "/home/liubiao/TrainData/svm_file/armor_model.yml";
     VarParam AutoParam;
     GetParam(ParamFile, AutoParam);
-    svm_predict.initSvm(svm_file);
+    // svm_predict.initSvm(svm_file);
     
     //-----类成员初始化-----//
     

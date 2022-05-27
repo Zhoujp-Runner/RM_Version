@@ -7,7 +7,7 @@
 class SerialControl
 {
 public:
-    SerialControl();
+    SerialControl(){};
     void ReceiveControl();
     void SendControl();
 };

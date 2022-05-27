@@ -14,7 +14,7 @@
 #include <sys/types.h>
 #include <sys/ioctl.h>
 #include <linux/netlink.h>
-#include </usr/local/include/eigen3/Eigen/Dense>
+#include <Eigen/Dense>
 
 #include "./serialport.h"
 

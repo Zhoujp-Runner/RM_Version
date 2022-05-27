@@ -1,0 +1,3 @@
+/home/liubiao/Desktop/Adjust_Version/build/CMakeFiles/rebuild_cache.dir
+/home/liubiao/Desktop/Adjust_Version/build/CMakeFiles/edit_cache.dir
+/home/liubiao/Desktop/Adjust_Version/build/CMakeFiles/Adjust_Version.dir
