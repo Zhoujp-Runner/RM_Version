@@ -1,6 +1,11 @@
 cmake_minimum_required(VERSION 2.8)
 SET(CMAKE_BUILD_TYPE "Debug") # "Debug" "Release"
 PROJECT(Adjust_Version)
+<<<<<<< HEAD
+=======
+
+find_package(Eigen3 REQUIRED)
+>>>>>>> main
 find_package(OpenCV 4.5.0)
 find_package(Eigen3 REQUIRED)
 
@@ -47,4 +52,8 @@ target_link_libraries(Adjust_Version ${CMAKE_THREAD_LIBS_INIT})
 find_package(X11 REQUIRED)
 include_directories(${X11_INLUCDE_DIR})
 target_link_libraries(Adjust_Version ${X11_LIBRARIES})
+<<<<<<< HEAD
 target_link_libraries(${PROJECT_NAME} ${OpenCV_LIBS} ${Eigen3_LIBRARIES} gxiapi)  # 包含大恒动态链接库
+=======
+target_link_libraries(${PROJECT_NAME} ${OpenCV_LIBS} ${EIGEN3_LIBRARIES} gxiapi)  # 包含大恒动态链接库
+>>>>>>> main

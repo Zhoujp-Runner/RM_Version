@@ -20,8 +20,7 @@
 // @brief 主函数
 int main()
 {
-    XInitThreads();        
-
+    XInitThreads();       
     ImageProcess process;
     SerialControl serialControl;
     std::thread ImageProductorThread(&ImageProcess::ImageProductor, process);

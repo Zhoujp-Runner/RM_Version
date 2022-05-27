@@ -105,6 +105,7 @@ public:
     bool initSerialPort();
     bool Check_Port_State();
 
+    bool getSendData();
     bool get_Mode(int &mode, int &sentry_mode, int &base_mode);
 	bool TransformData(const VisionData &data); //主要方案
 	void send();
